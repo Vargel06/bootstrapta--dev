@@ -1,0 +1,42 @@
+main{
+    background-color: darkslategray;
+    
+}
+ 
+a:link {
+    color:blue
+  
+    
+}
+footer {
+    box-sizing: border-box;
+    overflow-x:hidden ;
+}
+
+body {
+    text-align: center;
+    background-color:#E9ECEF
+   
+}
+h1 {
+    color:red;font-size:40px;
+    
+}
+h2 {color:rgb(223, 209, 19);font: size 30px;}
+
+ul {display: inline-block;}
+
+ol {display: inline-block;}
+h3 {
+    text-align: left;
+    color:rgb(223, 209, 19);font: size 30px;
+}
+
+
+.button {
+    color: blue;
+    border-color: blue;
+}
+p {
+    text-align: left;
+}
